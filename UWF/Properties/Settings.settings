@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AnkiMerger.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ignoresFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Fini (500 Gb)\Documents\FiniSoft\AnkiMerger\ignore.csv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
